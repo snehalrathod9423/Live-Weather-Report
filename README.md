@@ -1,2 +1,2 @@
 # Live-Weather-Report
-I have created this website for live report of weather using API(key)
+Live Weather Application using HTML CSS JS using API integration in it for live weather updates
